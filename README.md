@@ -1,7 +1,6 @@
 # Welcome
 
-That's website is my first Reactjs project with [NextJS](https://nextjs.org/) - [ogulcaneristi.com](https://ogulcaneristi.com)
-
+That's website is my first Reactjs project with [NextJS](https://nextjs.org/)
 
 ### Getting Started
 
