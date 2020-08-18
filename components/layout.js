@@ -14,7 +14,7 @@ function Layout() {
         <link rel="shortcut-icon" href="/public/favicon.ico" />
         <title>Furkan Portakal</title>
 
-        <meta name="title1" content="Oğulcan Erişti " />
+        <meta name="title1" content="Furkan Portakal" />
 
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
 
