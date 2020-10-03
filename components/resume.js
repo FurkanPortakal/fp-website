@@ -24,8 +24,8 @@ function Resume() {
               </p>
               <p> </p>
               <p>
-                I learned basic OOP, C, JavaActually I learned more than coding
-                and I love it.Also I'm currently learning ReactJs, VueJs.
+                I learned basic OOP, C, Java. Actually I learned more than coding
+                and I love it. Also I'm currently learning ReactJs, NextJs.
               </p>
             </div>
           </div>
