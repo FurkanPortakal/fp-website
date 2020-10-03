@@ -11,7 +11,8 @@ function About() {
         the opportunity to lead artificial intelligence in the construction of
         the popular vtol aircraft. I have more web development skills.
         <br></br> I{" "}
-        <Link href={"//twitter.com/portiiiix"} prefetch={false}>
+        <Link href={"//twitter.com/furkanportakalx
+"} prefetch={false}>
           <a target="_blank" rel="noopener noreferrer">
             <u>tweet</u>
           </a>
